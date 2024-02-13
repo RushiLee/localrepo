@@ -7,6 +7,9 @@ public class GitPushTest {
 
 		System.out.println("Domain Expansion");
 		System.out.println("Check Git Bash");
+		System.out.println("Child branch created");
+		System.out.println("Main is ahead of Child1");
+
 
 		
 	}

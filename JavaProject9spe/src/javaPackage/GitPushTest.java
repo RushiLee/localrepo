@@ -7,6 +7,7 @@ public class GitPushTest {
 
 		System.out.println("Domain Expansion");
 		System.out.println("Check Git Bash");
+		System.out.println("Git Child1 branch changes");
 
 		
 	}

@@ -10,6 +10,8 @@ public class GitPushTest {
 		System.out.println("Child branch created");
 		System.out.println("Main is ahead of Child1");
 
+		System.out.println("Git Child1 branch changes");
+
 
 		
 	}

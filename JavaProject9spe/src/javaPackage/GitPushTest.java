@@ -6,6 +6,8 @@ public class GitPushTest {
 		// TODO Auto-generated method stub
 
 		System.out.println("Domain Expansion");
+		System.out.println("Check Git Bash");
+
 		
 	}
 
